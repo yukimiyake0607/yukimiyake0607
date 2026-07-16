@@ -1,46 +1,63 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?yukimiyake0607=yukimiyake0607" />
-</div>
+<!--
+====================================================================
+ GitHub プロフィール README
+ リポジトリ名を「yukimiyake0607」にして README.md として配置すると
+ プロフィールトップに表示されます。
+ ※ 装飾（訪問者カウンター/GIF/統計カード）は採用担当にスルーされる、
+    もしくは逆効果との調査結果に基づき、意図的に排除しています。
+====================================================================
+-->
 
+## Yuki Miyake
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello!!
+**Flutter engineer** — 稼働中の求人マッチングアプリのモバイル領域を、テックリードとして実装からチーム運営まで担当しています。
 
-- 🧑‍💻 I'm a Flutter engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @myuki_design](https://x.com/myuki_design)
+- 🛠 5名のモバイルチームで、実装・PRレビュー・リリース・クライアントとの要件定義を一貫して担当
+- 🤖 Cursor / Claude Code を用いたAI駆動開発をチームに導入・運用
+- 🌏 これまでの案件はすべてフルリモート
+
 <br>
 
+### What I work with
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=dart,flutter,html,css,js,figma" />
+| | |
+| --- | --- |
+| **Mobile** | Flutter, Dart, Riverpod, Freezed, auto_route |
+| **Backend / API** | OpenAPI, Laravel, Firebase |
+| **Infra / Cloud** | AWS, Docker |
+| **AI-driven dev** | Cursor, Claude Code, CodeRabbit, rulesync |
+| **Other** | Vue.js, Agora SDK, AppsFlyer |
+
 <br>
 
+### What I'm doing now
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yukimiyake0607&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimiyake0607&theme=vue-dark&layout=compact" />
-</div>
+- **モバイルチームのテックリード** — フルタイムは私のみ（他4名は副業）。実装に加えて、タスク管理・月2回の定期リリース・ストア申請・バックエンドとの設計調整を担当しています。
+- **AI駆動開発の運用設計** — rulesync で複数モデルの規約を一元管理し、CodeRabbit の一次レビュー → 自分の二次レビューという多段構成を標準フローとして整備。大型タスクで実装工数を体感50%削減しました。
+- **Agora SDK でのリアルタイム通信** — オンライン面接（ビデオ・音声通話）機能をモバイル側で設計〜実装しました。
 
+<br>
+
+### Note on repositories
+
+実務コードは業務委託先の守秘義務によりすべて非公開です。このプロフィールに公開リポジトリが少ないのはそのためで、実務での役割・技術詳細はカジュアル面談などで具体的にお話しできます。
+
+<br>
+
+### Reach me
+
+- X (Twitter): [@myuki_design](https://x.com/myuki_design)
 
 <!--
-**yukimiyake0607/yukimiyake0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+====================================================================
+ 【任意】もしAI駆動開発のノウハウを公開リポジトリにまとめた場合は、
+ ここに Pinned の代わりとなる「注目プロジェクト」節を足すと効果的です。
+ 例：
 
-Here are some ideas to get you started:
+ ### Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - **ai-driven-dev-template** — rulesync + CodeRabbit を組み合わせた
+   AI駆動開発フローの構成テンプレート。実務で運用している仕組みを
+   機密コードを含めずに一般化したもの。 → リンク
+====================================================================
 -->
