@@ -10,34 +10,13 @@
 
 ## Yuki Miyake
 
-**Flutter engineer** — 稼働中の求人マッチングアプリのモバイル領域を、リードエンジニアとして実装からチーム運営まで担当しています。
-
-- 🛠 5名のモバイルチームで、実装・PRレビュー・リリース・クライアントとの要件定義を一貫して担当
-- 🤖 Cursorを用いたAI駆動開発をチームで運用
-- 🌏 これまでの案件はすべてフルリモート
+- Flutter Engineer
 
 <br>
 
 ### 個人開発
 
 - [Zeni サブスク・固定費もまとめる家計簿アプリ](https://apps.apple.com/jp/app/zeni-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF-%E5%9B%BA%E5%AE%9A%E8%B2%BB%E3%82%82%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E5%AE%B6%E8%A8%88%E7%B0%BF/id6766472633)というアプリをiOS版でリリースしました。（Androidも今後配信予定です）
-
-### What I work with
-
-| | |
-| --- | --- |
-| **Mobile** | Flutter, Dart, Riverpod, Freezed, auto_route |
-| **Backend / API** | OpenAPI, Laravel, Firebase |
-| **Infra / Cloud** | AWS, Docker |
-| **AI-driven dev** | Cursor, Claude Code, CodeRabbit, rulesync |
-| **Other** | Vue.js, Agora SDK, AppsFlyer |
-
-<br>
-
-### What I'm doing now
-
-- **モバイルチームのリードエンジニア** — フルタイムは私のみ（他4名は副業）。実装に加えて、要件定義、仕様関連（画面遷移図、画面仕様書、機能仕様書）、タスク管理・月2回の定期リリース・ストア申請・バックエンドとの設計調整を担当しています。
-- **AI駆動開発の運用設計** — rulesync で複数モデルの規約を一元管理し、CodeRabbit の一次レビュー → 自分の二次レビューという多段構成を標準フローとして整備。大型タスクで実装工数を体感50%削減しました。
 
 
 <br>
