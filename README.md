@@ -11,12 +11,7 @@
 ## Yuki Miyake
 
 - Flutter Engineer
-
-<br>
-
-### 個人開発
-
-- [Zeni サブスク・固定費もまとめる家計簿アプリ](https://apps.apple.com/jp/app/zeni-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF-%E5%9B%BA%E5%AE%9A%E8%B2%BB%E3%82%82%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E5%AE%B6%E8%A8%88%E7%B0%BF/id6766472633)というアプリをiOS版でリリースしました。（Androidも今後配信予定です）
+- [個人開発：Zeni サブスク・固定費もまとめる家計簿アプリ](https://apps.apple.com/jp/app/zeni-%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF-%E5%9B%BA%E5%AE%9A%E8%B2%BB%E3%82%82%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E5%AE%B6%E8%A8%88%E7%B0%BF/id6766472633)というアプリをiOS版でリリースしました。（Androidも今後配信予定です）
 
 
 <br>
